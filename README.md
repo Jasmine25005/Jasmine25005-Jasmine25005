@@ -14,8 +14,12 @@ I'm a Computer Science student passionate about Machine Learning algorithms, Dat
   <img src="https://github-readme-stats.vercel.app/api?username=Jasmine25005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jasmine25005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
   <img src="https://leetcard.jacoblin.cool/Jasmine254?theme=dark&ext=heatmap" height="150" alt="LeetCode Stats" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=Jasmine25005&color=blue)
+  ![LeetCode Streak](https://leetcard.jacoblin.cool/Jasmine254?theme=dark&ext=heatmap)
+
 </div>
-![Profile Views](https://komarev.com/ghpvc/?username=Jasmine25005&color=blue)
+
+
 
 ## 🛠 Skills & Technologies
 <div align="left">
